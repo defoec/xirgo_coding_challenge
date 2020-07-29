@@ -1,3 +1,3 @@
 # xirgo_coding_challenge
 
-clone repo in VS Code and run (F5)
+clone repo (https://github.com/defoec/xirgo_coding_challenge.git) in VS Code, build and run
