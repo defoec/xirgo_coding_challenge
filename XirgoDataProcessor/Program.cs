@@ -28,8 +28,6 @@ namespace XirgoDataProcessor
             Console.WriteLine("Most popular hour for bike rides: {0}\n", dataProcessor.GetMostPopularTripStartHour(trips));
             Console.WriteLine("Least popular hour for bike rides: {0}\n", dataProcessor.GetLeastPopularTripStartHour(trips));
             Console.WriteLine("Most used bike id: {0}\n", dataProcessor.GetMostPopularBikeId(trips));
-
-            Console.ReadLine();
         }
     }
 }
