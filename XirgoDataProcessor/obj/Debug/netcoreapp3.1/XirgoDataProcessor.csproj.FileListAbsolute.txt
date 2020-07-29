@@ -1,0 +1,13 @@
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.exe
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.deps.json
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.runtimeconfig.json
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.runtimeconfig.dev.json
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.dll
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\bin\Debug\netcoreapp3.1\XirgoDataProcessor.pdb
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.csprojAssemblyReference.cache
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.AssemblyInfoInputs.cache
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.AssemblyInfo.cs
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.csproj.CoreCompileInputs.cache
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.dll
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.pdb
+D:\VSCode\xirgo_coding_challenge\XirgoDataProcessor\obj\Debug\netcoreapp3.1\XirgoDataProcessor.genruntimeconfig.cache
